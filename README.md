@@ -1,4 +1,4 @@
-# OTPbaasedAccountOperationsRestAPI
+# OTP based Account Operations Rest API using DJANGO REST FRAMEWORK
 This app can be integrated with any project where we need two step verification and Authentication using OTP 
 All the Operations are written using Django Rest Framework and can be used just by making an API call after integration with the frontend
 Following operations are available in this account app :
